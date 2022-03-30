@@ -1,8 +1,8 @@
 {
   "author": "Zach Carter <zach@carter.name> (http://zaa.ch)",
-  "name": "@wekantam/jison",
+  "name": "@wekanteam/jison",
   "description": "A parser generator with Bison's API",
-  "version": "0.4.19",
+  "version": "0.4.20",
   "license": "MIT",
   "keywords": [
     "jison",
